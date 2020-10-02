@@ -1,0 +1,14 @@
+.jumbotron{
+    background-color:#bf80ff;
+    color: aliceblue;
+}
+.content{
+    padding: 20px;
+}
+.about{
+    padding: 20px;
+}
+.footer{
+    background-color: #d9b3ff;
+    padding-top: 20px;
+}
